@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/qurrat ul ain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qurrat ul ain" height="30" width="40" /></a>
 <a href="https://instagram.com/ainy.the.awesome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ainy.the.awesome" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/qurratulainainy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qurratulainainy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
